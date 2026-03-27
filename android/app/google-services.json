@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23571291805",
+    "firebase_url": "https://proyecto-a7911-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-a7911",
+    "storage_bucket": "proyecto-a7911.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23571291805:android:8dd6c64f66cb100028be74",
+        "android_client_info": {
+          "package_name": "com.teconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23571291805-vvb5a3q79lbcfi9fpa5an3kq1fgc5doc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMBq-9qM7frLuywLuzkzV_pRI_VZSOvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23571291805-vvb5a3q79lbcfi9fpa5an3kq1fgc5doc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
